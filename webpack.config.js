@@ -1,6 +1,6 @@
 module.exports = {
   entry: [
-    './src/index.js'
+    './youtube-search/src/index.js'
   ],
   output: {
     path: __dirname,
